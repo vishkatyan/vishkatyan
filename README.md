@@ -1,5 +1,5 @@
 
-# Hi there <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Vishakha, 
+# Hi there <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Vishakha 
 
 ## About Me :
 - Final year student of Bachelor of Computer Applications at  Dr. KN Modi Institute of Engineering and Technology, Modinagar
