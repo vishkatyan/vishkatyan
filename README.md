@@ -7,7 +7,6 @@
 - Coding enthusiast and curious to learn new skills and technologies.
 - Worked as an intern (Author) at QuestionPapersHub-QPH. 
 - Was also a part of Internshala Student Partner ISP19 at Internshala Ambassador Programme. 
-- Currently working as a Full Stack Developer at Timidlly. 
 
 ## 📝 My Blogs :
 - [How to prepare yourself as a beginner within 9 months to land a job?](https://sharmavishakha1209.wixsite.com/blog-tech/post/how-to-prepare-yourself-as-a-beginner-in-9-months-to-crack-big-companies)
