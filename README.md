@@ -2,7 +2,8 @@
 # Hi there <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Vishakha 
 
 ## About Me :
-- Final year student of Bachelor of Computer Applications at  Dr. KN Modi Institute of Engineering and Technology, Modinagar
+- Doing Master of Computer Applications from RD Engineering College, Duhai, Ghaziabad.
+- Graduate in Bachelor of Computer Applications from  Dr. KN Modi Institute of Engineering and Technology, Modinagar
 - Technology Enthusiast.
 - Coding enthusiast and curious to learn new skills and technologies.
 - Worked as an intern (Author) at QuestionPapersHub-QPH. 
