@@ -14,8 +14,9 @@
 - [Top Website Development Project ideas with Passive Income](https://sharmavishakha1209.wixsite.com/blog-tech/post/top-website-development-project-ideas-with-passive-income)
 - [How to Prepare for Array Data Structure for Placements?](https://sharmavishakha1209.wixsite.com/blog-tech/post/how-to-prepare-for-array-data-structure-for-placements)
 
-##  My Projects :
+##  My Mini Projects :
 - [ Personal Portfolio ](https://vishkatyan.netlify.app/)
+- [ KrafterStudio Clone ](https://krafterstudioclone.netlify.app)
 
 
 
