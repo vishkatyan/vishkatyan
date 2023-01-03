@@ -48,7 +48,6 @@
 **vishkatyan/vishkatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working for ... Timidlly India Pvt. Ltd.
 - 🔭 I’m currently the Founder of ... Internship Alerts
 - 🌱 I’m currently learning ... Full Stack Development
