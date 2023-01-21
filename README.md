@@ -39,6 +39,9 @@
   <a href="https://www.linkedin.com/in/vishkatyan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vishakha's LinkedIn"/>
   </a>
+   <a href="https://github.com/vishkatyan">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Vishakha's Github"/>
+  </a>
   <a href="https://twitter.com/Vishkatyan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Vishakha's Twitter"/>
   </a>
