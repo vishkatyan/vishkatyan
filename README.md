@@ -48,6 +48,12 @@
 - [Animated Website Pre-loader](https://css-loader-animation.netlify.app/)
 - [Animated Contact Form](https://contact-form-animated.netlify.app/)
 
+## Designing:
+<div align="center">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
+  </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishkatyan&label=Profile%20views&color=0e75b6&style=flat" alt="vishkatyan" /> </p>
 
