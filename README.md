@@ -55,7 +55,13 @@
   </div>
 <br/>
 
+## Version Control:
+<div align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white">
+  </div>
 <br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishkatyan&label=Profile%20views&color=0e75b6&style=flat" alt="vishkatyan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vishkatyan" target="blank"><img src="https://img.shields.io/twitter/follow/vishkatyan?logo=twitter&style=for-the-badge" alt="vishkatyan" /></a> </p>
