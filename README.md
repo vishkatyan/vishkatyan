@@ -1,5 +1,8 @@
 
 # Hi there <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Vishakha 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## About Me :
 - Doing Master of Computer Applications from RD Engineering College, Duhai, Ghaziabad.
@@ -9,7 +12,10 @@
 - Worked as an intern (Author) at QuestionPapersHub-QPH. 
 - Was also a part of Internshala Student Partner ISP19 at Internshala Ambassador Programme. 
 
-## 📝 My Blogs :
+## 📝 My Recent Blogs :
+
+- [Easy Way to Push Code to Github Using a Terminal](https://medium.com/@vish_katyan/easy-way-to-push-code-to-github-using-a-terminal-41a1c2856542) <br/>
+- [Understand Recursion in a Simple Way](https://sharmavishakha1209.wixsite.com/blog-tech/post/understand-recursion-in-a-simple-way) <br/>
 - [How to prepare yourself as a beginner within 9 months to land a job?](https://sharmavishakha1209.wixsite.com/blog-tech/post/how-to-prepare-yourself-as-a-beginner-in-9-months-to-crack-big-companies)
 - [Top Website Development Project ideas with Passive Income](https://sharmavishakha1209.wixsite.com/blog-tech/post/top-website-development-project-ideas-with-passive-income)
 - [How to Prepare for Array Data Structure for Placements?](https://sharmavishakha1209.wixsite.com/blog-tech/post/how-to-prepare-for-array-data-structure-for-placements)
