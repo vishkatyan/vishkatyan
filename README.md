@@ -1,6 +1,6 @@
-  ![logo](https://user-images.githubusercontent.com/82721870/213883959-13b47367-a43f-44fa-bb6a-5ea35a3c2735.png)
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/82721870/213883959-13b47367-a43f-44fa-bb6a-5ea35a3c2735.png">
   <h1>Hi there  <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Vishakha </h1>
   </div>
 <div id="header" align="center">
