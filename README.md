@@ -24,6 +24,10 @@
 - [ Personal Portfolio ](https://vishkatyan.netlify.app/)
 - [ KrafterStudio Clone ](https://krafterstudioclone.netlify.app)
 
+## Recent Small Animated Work with Lottie:
+- [Animated Website Pre-loader](https://css-loader-animation.netlify.app/)
+- [Animated Contact Form](https://contact-form-animated.netlify.app/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishkatyan&label=Profile%20views&color=0e75b6&style=flat" alt="vishkatyan" /> </p>
 
