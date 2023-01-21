@@ -49,7 +49,7 @@
 - [Animated Contact Form](https://contact-form-animated.netlify.app/)
 
 ## Designing:
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
   </div>
