@@ -53,8 +53,9 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
   </div>
+<br/>
 
-
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishkatyan&label=Profile%20views&color=0e75b6&style=flat" alt="vishkatyan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vishkatyan" target="blank"><img src="https://img.shields.io/twitter/follow/vishkatyan?logo=twitter&style=for-the-badge" alt="vishkatyan" /></a> </p>
