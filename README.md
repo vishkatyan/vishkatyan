@@ -17,6 +17,10 @@
   <a href="https://twitter.com/Vishkatyan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Vishakha's Twitter"/>
   </a>
+  <a href="https://medium.com/@vish_katyan">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vishakha's Medium"/>
+  </a>
+  
 </div>
 </p>
 
