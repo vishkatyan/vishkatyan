@@ -42,6 +42,7 @@
 
 ##  My Mini Projects :
 - [ Personal Portfolio ](https://vishkatyan.netlify.app/)
+- [ Mycourses ](https://mycoursespage.netlify.app/)
 - [ KrafterStudio Clone ](https://krafterstudioclone.netlify.app)
 
 ## Recent Small Animated Work with Lottie:
