@@ -35,6 +35,7 @@
 
 ## 📝 My Recent Blogs :
 
+- [WhatsApp Account Temporary Banned](https://medium.com/@vishkatyan/whatsapp-account-temporary-banned-12259fd71fb0) <br/>
 - [Easy Way to Push Code to Github Using a Terminal](https://medium.com/@vish_katyan/easy-way-to-push-code-to-github-using-a-terminal-41a1c2856542) <br/>
 - [Understand Recursion in a Simple Way](https://sharmavishakha1209.wixsite.com/blog-tech/post/understand-recursion-in-a-simple-way) <br/>
 - [How to prepare yourself as a beginner within 9 months to land a job?](https://sharmavishakha1209.wixsite.com/blog-tech/post/how-to-prepare-yourself-as-a-beginner-in-9-months-to-crack-big-companies)
