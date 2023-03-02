@@ -25,7 +25,7 @@
 </div>
 </p>
 
-## About Me :
+## 🤓 About Me :
 - Doing Master of Computer Applications from RD Engineering College, Duhai, Ghaziabad.
 - Graduate in Bachelor of Computer Applications from  Dr. KN Modi Institute of Engineering and Technology, Modinagar
 - Technology Enthusiast.
@@ -42,12 +42,12 @@
 - [Top Website Development Project ideas with Passive Income](https://sharmavishakha1209.wixsite.com/blog-tech/post/top-website-development-project-ideas-with-passive-income)
 - [How to Prepare for Array Data Structure for Placements?](https://sharmavishakha1209.wixsite.com/blog-tech/post/how-to-prepare-for-array-data-structure-for-placements)
 
-##  My Mini Projects :
+## 💻 My Mini Projects :
 - [ Personal Portfolio ](https://vishkatyan.netlify.app/)
 - [ Mycourses ](https://mycoursespage.netlify.app/)
 - [ KrafterStudio Clone ](https://krafterstudioclone.netlify.app)
 
-## Recent Small Animated Work with Lottie:
+## 🔥 Recent Small Animated Work with Lottie:
 - [Animated Website Pre-loader](https://css-loader-animation.netlify.app/)
 - [Animated Contact Form](https://contact-form-animated.netlify.app/)
 
