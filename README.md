@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/82721870/213884120-1a3ba595-1dcf-43fe-aff3-554c4386f7e2.png">
-  <h1>Hi there  <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Vishakha </h1>
+<!--   <img src="https://user-images.githubusercontent.com/82721870/213884120-1a3ba595-1dcf-43fe-aff3-554c4386f7e2.png">
+  <h1>Hi there  <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Vishakha </h1> -->
   <h3> <a href="https://linktr.ee/vishkatyan"> Check all my links at one place </a> </h3> <br/>
   </div>
 <div id="header" align="center">
