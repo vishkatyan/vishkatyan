@@ -35,6 +35,9 @@
 
 ## 📝 My Recent Blogs :
 
+- [The world of Data Science : Intro](https://medium.com/@vishkatyan/the-world-of-data-science-intro-97641f2b1856) <br/>
+- [Play with Variables in Kotlin](https://medium.com/@vishkatyan/play-with-variables-in-kotlin-c3bc4e5805ff) <br/>
+- [Write your First Line of Code in Kotlin for Android!](https://medium.com/@vishkatyan/write-your-first-line-of-code-in-kotlin-for-android-8628bb18f4e3) <br/>
 - [WhatsApp Account Temporary Banned](https://medium.com/@vishkatyan/whatsapp-account-temporary-banned-12259fd71fb0) <br/>
 - [Easy Way to Push Code to Github Using a Terminal](https://medium.com/@vish_katyan/easy-way-to-push-code-to-github-using-a-terminal-41a1c2856542) <br/>
 - [Understand Recursion in a Simple Way](https://sharmavishakha1209.wixsite.com/blog-tech/post/understand-recursion-in-a-simple-way) <br/>
