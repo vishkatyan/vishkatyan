@@ -30,9 +30,11 @@
 ## 🤓 About Me :
 - Doing Master of Computer Applications from RD Engineering College, Duhai, Ghaziabad.
 - Graduate in Bachelor of Computer Applications from  Dr. KN Modi Institute of Engineering and Technology, Modinagar
+- I also create content on YouTube.
 - Technology Enthusiast.
 - Coding enthusiast and curious to learn new skills and technologies.
-- Worked as an intern (Author) at QuestionPapersHub-QPH. 
+- Worked as an developer intern at Timidlly India Pvt Ltd.
+- Also, Worked as an content creator intern (Author) at QuestionPapersHub-QPH. 
 - Was also a part of Internshala Student Partner ISP19 at Internshala Ambassador Programme.
 
 ## 📝 My Recent Blogs :
