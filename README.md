@@ -21,7 +21,9 @@
   <a href="https://medium.com/@vish_katyan">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vishakha's Medium"/>
   </a>
-  
+  <a href ="https://www.youtube.com/@internshipalerts">
+     <img src="https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white" alt="Vishakha's YouTube"/>
+  </a>
 </div>
 </p>
 
@@ -35,6 +37,8 @@
 
 ## 📝 My Recent Blogs :
 
+- [Get Started With JavaScript](https://medium.com/@vishkatyan/get-started-with-javascript-d642d73ced05) <br/>
+- [Top Web Development Ideas as a Beginner](https://medium.com/@vishkatyan/top-web-development-ideas-as-a-beginner-e9922f8fb9e9) <br/>
 - [The world of Data Science : Intro](https://medium.com/@vishkatyan/the-world-of-data-science-intro-97641f2b1856) <br/>
 - [Play with Variables in Kotlin](https://medium.com/@vishkatyan/play-with-variables-in-kotlin-c3bc4e5805ff) <br/>
 - [Write your First Line of Code in Kotlin for Android!](https://medium.com/@vishkatyan/write-your-first-line-of-code-in-kotlin-for-android-8628bb18f4e3) <br/>
