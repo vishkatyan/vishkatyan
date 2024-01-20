@@ -2,7 +2,7 @@
 <div align="center">
 <!--   <img src="https://user-images.githubusercontent.com/82721870/213884120-1a3ba595-1dcf-43fe-aff3-554c4386f7e2.png"> -->
   <h1>Hi there  <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Vishakha </h1> 
-  <h3> <a href="https://linktr.ee/vishkatyan"> Check all my links at one place </a> </h3> <br/>
+  <h3> <a href="https://linktr.ee/vishkatyan"> Check out all the links at one place </a> </h3> <br/>
   </div>
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100"/>
@@ -12,18 +12,20 @@
   <a href="https://www.linkedin.com/in/vishkatyan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vishakha's LinkedIn"/>
   </a>
+  <a href="https://github.com/vishkatyan">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Vishakha's Github"/>
+  </a>
   <a href="https://www.youtube.com/@internshipalerts">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Vishakha's YouTube"/>
   </a>
-   <a href="https://github.com/vishkatyan">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Vishakha's Github"/>
+   
+   <a href="https://medium.com/@vish_katyan">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vishakha's Medium"/>
   </a>
   <a href="https://twitter.com/Vishkatyan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Vishakha's Twitter"/>
   </a>
-  <a href="https://medium.com/@vish_katyan">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vishakha's Medium"/>
-  </a>
+ 
 <!--   <a href ="https://www.youtube.com/@internshipalerts">
      <img src="https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white" alt="Vishakha's YouTube"/>
   </a> -->
