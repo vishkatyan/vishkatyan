@@ -5,7 +5,7 @@
   <h3> <a href="https://linktr.ee/vishkatyan"> Check all my links at one place </a> </h3> <br/>
   </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100"/>
 </div>
 <p align="center">
 <div id="badges" align="center">
@@ -24,9 +24,9 @@
   <a href="https://medium.com/@vish_katyan">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vishakha's Medium"/>
   </a>
-  <a href ="https://www.youtube.com/@internshipalerts">
+<!--   <a href ="https://www.youtube.com/@internshipalerts">
      <img src="https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white" alt="Vishakha's YouTube"/>
-  </a>
+  </a> -->
 </div>
 </p>
 
@@ -34,11 +34,8 @@
 - Doing Master of Computer Applications from RD Engineering College, Duhai, Ghaziabad.
 - Graduate in Bachelor of Computer Applications from  Dr. KN Modi Institute of Engineering and Technology, Modinagar
 - I also create content on YouTube.
-- Technology Enthusiast.
-- Coding enthusiast and curious to learn new skills and technologies.
-- Worked as an developer intern at Timidlly India Pvt Ltd.
-- Also, Worked as an content creator intern (Author) at QuestionPapersHub-QPH. 
-- Was also a part of Internshala Student Partner ISP19 at Internshala Ambassador Programme.
+- Worked as a developer intern at Timidlly India Pvt Ltd.
+- Also, I worked as a content creator intern (Author) at QuestionPapersHub-QPH. 
 
 ## 📝 My Recent Blogs :
 
@@ -58,8 +55,8 @@
 ## 💻 My Mini Projects :
 - [ The News.org ](https://github.com/vishkatyan/news-website)
 - [ Personal Portfolio ](https://vishkatyan.netlify.app/)
-- [ Mycourses ](https://mycoursespage.netlify.app/)
-- [ KrafterStudio Clone ](https://krafterstudioclone.netlify.app)
+- [ Homez - A real Estate Website ]
+- [ Blog Tech ]
 
 ## 🔥 Recent Small Animated Work with Lottie:
 - [Animated Website Pre-loader](https://css-loader-animation.netlify.app/)
@@ -84,8 +81,17 @@
 <p align="left"> <a href="https://twitter.com/vishkatyan" target="blank"><img src="https://img.shields.io/twitter/follow/vishkatyan?logo=twitter&style=for-the-badge" alt="vishkatyan" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU3NjgxMzksIm5iZiI6MTcwNTc2NzgzOSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIwVDE2MjM1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJiMDc2MGUzNTFkNDBjMGQzOTlhYWRjZjk3ODBkNjYzOWI3Zjk3OGQ0YjQ1ZjNkNWU4YjgyOTdmNTAzMTVkNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RQmSyeQzjap1P87Br33XoRuB9v3QICrcQCBjaS2VoUw" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.bootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="bootstrap" width="40" height="40"/> </a>
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img  alt="React.JS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img  alt="Express.Js" height="50px" style="padding-right:10px;" src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU3NjgxMzksIm5iZiI6MTcwNTc2NzgzOSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIwVDE2MjM1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1ZmIwOTFiNDE0NjhlNGY0ODU4YmE3N2NlYzFhMTEzOTY2MzJiZmZkOTg5ZmQyOGQwZDYzYzMxYjkyZjNjNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kidQypSKWjdWsUO_M9Kwr93BmVLK5iKXOqolFkxDclU"/></a>  
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+      <img  alt="NPM" height="50px" style="padding-right:10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   </a> </p>
 
 <p><img align="left" top="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishkatyan&show_icons=true&locale=en&theme=tokyonight" alt="vishkatyan" /></p>
