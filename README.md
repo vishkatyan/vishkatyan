@@ -59,6 +59,7 @@
 - [ Personal Portfolio ](https://vishkatyan.netlify.app/)
 - [ Homez - A real Estate Website ]
 - [ Blog Tech ]
+- [ SnapEVent - An Event Organizer ]
 
 ## 🔥 Recent Small Animated Work with Lottie:
 - [Animated Website Pre-loader](https://css-loader-animation.netlify.app/)
