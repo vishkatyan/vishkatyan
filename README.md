@@ -57,9 +57,9 @@
 ## 💻 My Mini Projects :
 - [ The News.org ](https://github.com/vishkatyan/news-website)
 - [ Personal Portfolio ](https://vishkatyan.netlify.app/)
-- [ Homez - A real Estate Website ]
+- [ Homez - A real Estate Website ](https://homezdotcom.netlify.app/)
 - [ Blog Tech ]
-- [ SnapEVent - An Event Organizer ]
+- [ SnapEVent - An Event Organizer ] (MERN Application)
 
 ## 🔥 Recent Small Animated Work with Lottie:
 - [Animated Website Pre-loader](https://css-loader-animation.netlify.app/)
