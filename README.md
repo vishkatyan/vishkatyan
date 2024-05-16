@@ -33,11 +33,12 @@
 </p>
 
 ## 🤓 About Me :
-- Doing Master of Computer Applications from RD Engineering College, Duhai, Ghaziabad.
-- Graduate in Bachelor of Computer Applications from  Dr. KN Modi Institute of Engineering and Technology, Modinagar
-- I also create content on YouTube.
+- SDE Intern at ITJOBXS.
+- Solving DSA Problems at HackerRank, GFG and Leetcode.
+- Doing Master of Computer Applications from RD Engineering College, Ghaziabad.
+- Graduate in Bachelor of Computer Applications from  Dr. KN Modi Institute of Engineering and Technology.
 - Worked as a developer intern at Timidlly India Pvt Ltd.
-- Also, I worked as a content creator intern (Author) at QuestionPapersHub-QPH. 
+
 
 ## 📝 My Recent Blogs :
 
