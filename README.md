@@ -42,6 +42,7 @@
 
 ## 📝 My Recent Blogs :
 
+- [Understanding Arrays and ArrayLists in Java — An Easy Way](https://medium.com/@vishkatyan/understanding-arrays-and-arraylists-in-java-in-an-easy-way-4f9261943169) <br/>
 - [Easy Way to Make Server Using Express.JS](https://medium.com/@vishkatyan/easy-way-to-make-server-using-express-js-4682c1695f12) <br/>
 - [Get Started With JavaScript](https://medium.com/@vishkatyan/get-started-with-javascript-d642d73ced05) <br/>
 - [Top Web Development Ideas as a Beginner](https://medium.com/@vishkatyan/top-web-development-ideas-as-a-beginner-e9922f8fb9e9) <br/>
