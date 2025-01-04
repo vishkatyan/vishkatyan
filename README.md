@@ -15,9 +15,7 @@
   <a href="https://github.com/vishkatyan">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Vishakha's Github"/>
   </a>
-  <a href="https://www.youtube.com/@internshipalerts">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Vishakha's YouTube"/>
-  </a>
+  
    
    <a href="https://medium.com/@vish_katyan">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Vishakha's Medium"/>
